@@ -1,0 +1,16 @@
+POLÍTICA DE PRIVACIDAD — BORRADOR PARA COMPLETAR
+
+Aplicación: NO HAGAS RUIDO
+Desarrollador: [NOMBRE DEL DESARROLLADOR]
+Contacto: [CORREO DE CONTACTO]
+URL pública de esta política: [URL HTTPS]
+
+La versión actual del prototipo transmite al servidor de juego el identificador de conexión y la posición/dirección del personaje para sincronizar la partida multijugador. El servidor utiliza esos datos durante la sesión para actualizar el estado de los jugadores y del monstruo.
+
+Antes de publicar, el desarrollador debe confirmar y describir:
+- Si se recopilan analíticas, identificadores, diagnósticos o datos adicionales.
+- Si se incorpora chat, micrófono, anuncios o compras.
+- Cuánto tiempo se conservan los registros del servidor.
+- Cómo pueden contactar los usuarios para ejercer sus derechos o solicitar eliminación de datos.
+
+No publiques esta plantilla sin revisarla y completar los campos. La política debe coincidir con el comportamiento real de la app y estar disponible en una URL pública.

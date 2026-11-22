@@ -1,0 +1,11 @@
+SUBIR EL PROYECTO DESDE ANDROID
+
+1. Descarga y extrae este ZIP usando la app Archivos de tu teléfono.
+2. En Chrome abre tu repositorio de GitHub.
+3. Pulsa Add file > Upload files.
+4. Sube el CONTENIDO de esta carpeta, no el ZIP.
+5. Conserva la carpeta public y la carpeta .github/workflows con su estructura.
+6. Pulsa Commit changes.
+7. Después abre Actions para comprobar la compilación del APK.
+
+Nota: GitHub no descomprime automáticamente un ZIP al subirlo. Si el selector de archivos del teléfono no permite conservar carpetas, no continúes subiendo archivos sueltos: pide ayuda para usar github.dev desde el navegador.

@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>NO HAGAS RUIDO</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="hud">
+  <div class="brand">NO HAGAS RUIDO <span>PROTOCOLO DE SUPERVIVENCIA</span></div>
+  <div class="status"><i id="dot"></i><span id="connection">Conectando...</span></div>
+  <div id="objective">OBJETIVO: sobrevive. No hagas ruido.</div>
+  <div id="warning"></div>
+  <div id="players">Jugadores: 0/3</div>
+  <div id="controls">WASD mover · SHIFT correr (hace más ruido) · E lanzar objeto · Click para mirar</div>
+</div>
+<div id="start">
+  <div class="panel">
+    <p class="eyebrow">UNA PARTIDA. TRES SUPERVIVIENTES. UN DEPREDADOR.</p>
+    <h1>NO HAGAS<br><em>RUIDO.</em></h1>
+    <p>El monstruo escucha tus pasos, las carreras y los objetos que lanzas. Si haces ruido, irá a buscarte.</p>
+    <button id="play">ENTRAR A LA OSCURIDAD</button>
+    <small>Se necesitan hasta 3 jugadores conectados a la misma dirección del servidor.</small>
+  </div>
+</div>
+<div id="mobile-controls">
+  <div class="dpad">
+    <button id="up" aria-label="Avanzar">▲</button>
+    <div><button id="left" aria-label="Izquierda">◀</button><button id="down" aria-label="Retroceder">▼</button><button id="right" aria-label="Derecha">▶</button></div>
+  </div>
+  <div class="actions"><button id="run">CORRER</button><button id="throw">LANZAR</button></div>
+</div>
+<div id="toast"></div>
+<script src="/socket.io/socket.io.js"></script>
+<script type="module" src="game.js"></script>
+</body></html>

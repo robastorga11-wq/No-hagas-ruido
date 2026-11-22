@@ -1,0 +1,20 @@
+NOMBRE:
+NO HAGAS RUIDO
+
+DESCRIPCIÓN CORTA (borrador):
+Sobrevive al monstruo que escucha cada ruido. Juega en equipo con hasta tres supervivientes.
+
+DESCRIPCIÓN LARGA (borrador):
+Adéntrate en un lugar oscuro donde el silencio es tu única defensa. Explora, coordínate con otros supervivientes y evita hacer ruido: el monstruo investiga los sonidos y te perseguirá. Corre solo cuando sea necesario, porque tus pasos pueden delatarte.
+
+GÉNERO:
+Juegos / Acción / Terror (selección final pendiente)
+
+CLASIFICACIÓN POR EDADES:
+Pendiente de completar el cuestionario IARC de Google Play.
+
+CAPTURAS:
+Pendientes de capturar desde la versión final en Android.
+
+ICONO:
+Pendiente de diseñar/exportar en los tamaños exigidos por Google Play.
