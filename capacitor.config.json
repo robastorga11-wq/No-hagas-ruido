@@ -1,0 +1,8 @@
+{
+  "appId": "com.tujuego.nohagasruido",
+  "appName": "NO HAGAS RUIDO",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
